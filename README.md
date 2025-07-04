@@ -67,7 +67,7 @@ src/
 **Clone the Repo:**
 
 ```bash
-git clone https://github.com/yourusername/fraud-detection.git
+git clone https://github.com/beratduranw/fraud-detection.git
 cd fraud-detection
 ```
 
