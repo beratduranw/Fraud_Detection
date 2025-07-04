@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+env/
+
+# Logs
+*.log
+logs/
+
+# Models
+models/
+
+# Temporary files
+tmp/
+cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+
+# Data files
+*.csv
+*.json
+*.pkl
+
+# Docker
+*.dockerignore
+Dockerfile.*
+
+# MLflow artifacts
+mlruns/
+
+# Airflow-specific
+airflow.db
+webserver_config.py
